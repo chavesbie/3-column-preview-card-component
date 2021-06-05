@@ -27,7 +27,6 @@ Users should be able to:
 
 ### Screenshot
 ![desktop](./ASSETS/Screenshot desktop.png)
-![mobile](./ASSETS/Screenshot mobile.png)
 
 
 
